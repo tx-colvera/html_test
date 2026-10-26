@@ -3,7 +3,7 @@
   source_language: en
   source_file_extension: html
   source_file_dir: source/test/en
-  translation_files_expression: 'source/test/en/<lang>/'
+  translation_files_expression: 'source/test/<lang>/'
 
 #  file_format: HTML_FRAGMENT
 #  source_language: en
